@@ -33,12 +33,3 @@ for ip in net:
     if s.count('1') > s.count('0'):
         counter += 1
 print(counter)
-
-# задание с доскрока по егэ, на кегэ №15326
-counter = 0
-net = ip_network('105.224.200.224/255.255.255.224')
-for i in net:
-    s = f'{i:b}'
-    if s.count('1') % 4 == 0:
-        counter += 1
-print(counter)

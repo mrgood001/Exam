@@ -116,4 +116,4 @@ for i in product(st, repeat=5):
         if counter > maxi_counter:
             maxi_counter = counter
     counter +=1 
-print(maxi_counter)
+print(maxi_counter) 
