@@ -1,6 +1,7 @@
 #если нет вычитания
 def index(start, finish):
     if start > finish or start == 11 or start == 12:
+        # start == 11 or start == 12 означает, что в траектории нет этих чисел
         return 0
     elif start == finish :
         return 1
