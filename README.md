@@ -1,7 +1,10 @@
-<div align="center">
+<H1>
+  <div align="center">
 Осноные задания по егэ
   
 </div>
+</H1>
+
 <p>
   
 </p>
