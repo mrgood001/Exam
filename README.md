@@ -1,6 +1,6 @@
 <H1>
   <div align="center">
-Осноные задания по егэ
+Осноные шаблоны по егэ 2024
   
 </div>
 </H1>
@@ -14,5 +14,5 @@ This repository contains the main templates for the Unified State Exam in Comput
   
 </p>
 <p>
-Собраны основные шаблоны для егэ по информатике
+Собраны основные шаблоны для егэ по информатике в 2024 году
 </p>
